@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Federico</h1>
 
-<h3 align="center">Soy estudiante de la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI), una carrera que me ha permitido adquirir una buena base en programación y desarrollo web. De todas las áreas, lo que más me interesa es el backend, ya que disfruto trabajando con la lógica y la estructura que hay detrás de las aplicaciones.
+<h3 align="center">Soy estudiante de la Universidad de Exactas UNICEN, en la Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas (TUDAI), una carrera que me ha permitido adquirir una buena base en programación y desarrollo web. De todas las áreas, lo que más me interesa es el backend, ya que disfruto trabajando con la lógica y la estructura que hay detrás de las aplicaciones.
 </h3>
 
 
